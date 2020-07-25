@@ -1,4 +1,8 @@
 ==================
+Project này chỉnh sửa phần example, xem file Readme.md của example để xem hướng dẫn chạy
+==================
+
+==================
 Django-MongoEngine
 ==================
 
